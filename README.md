@@ -22,6 +22,7 @@
 ![MastterHead](https://bit.ly/3RUogVu)
 
 ## Temperature , Press and Altitude value
+* The pressure value is atm, not hPa. To reach the atm value, we need to multiply the hPa value by 0.00000986923.
 ![MasterHead](https://bit.ly/3tyskkT)
   
 
