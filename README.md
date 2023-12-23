@@ -11,7 +11,18 @@
 * HAL
 
 ## Connection diagram
+* Our pins that are active because we use the I2C1 line.
+* PB6 (SCL) and PB7 (SDA) pins.
+* stm32f429i disco1 ADXL345
+* GND               GND
+* 5V                VCC
+* SCL               SCL
+* SDA               SDA
+should be done in such a way that.
+![MastterHead](https://bit.ly/3RUogVu)
 
+## Temperature , Press and Altitude value
+![MasterHead](https://bit.ly/3tyskkT)
   
 
 
