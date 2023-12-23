@@ -18,7 +18,7 @@
 * 5V                VCC
 * SCL               SCL
 * SDA               SDA
-should be done in such a way that.
+* should be done in such a way that.
 ![MastterHead](https://bit.ly/3RUogVu)
 
 ## Temperature , Press and Altitude value
